@@ -1,4 +1,4 @@
-package middle.LinkedList;
+package Middle.LinkedList;
 
 public class ListNode {
     int val;

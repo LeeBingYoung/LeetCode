@@ -1,4 +1,4 @@
-package middle.LinkedList;
+package Middle.LinkedList;
 
 public class OddEvenLinkedList {
     public ListNode oddEvenList(ListNode head) {
